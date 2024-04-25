@@ -1,4 +1,4 @@
-# TextAge
+# TextAge - Please refer Data_and_training.html if the ipynb file not loading
 
 This project is meant to provide a set of tools that help Historians, Philologists, and literature enthusiast predict the Age of a text using AI.
 
