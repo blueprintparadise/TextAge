@@ -1,4 +1,4 @@
-# TextAge - 
+# TextAge: Evaluating Large Language Models for Historical Text Dating - 
 
 This project is meant to provide a set of tools that help Historians, Philologists, and literature enthusiast predict the Age of a text using AI.
 
